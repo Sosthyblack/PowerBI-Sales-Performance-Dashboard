@@ -3,6 +3,33 @@
 ## Project Overview
 This project uses Microsoft Power BI to analyze 500 retail sales transactions from 2025, including revenue, profit, products, regions, and monthly sales trends.
 
+## Dataset
+
+**Dataset Name:** Retail Sales Portfolio Practice Dataset
+
+**Dataset File:** `PowerBI_Retail_Sales_Portfolio_Project (1).xlsx`
+
+**Dataset Type:** Portfolio practice dataset based on a retail business scenario.
+
+The dataset contains 500 retail sales transactions covering 2025. It was provided as part of a Power BI portfolio exercise to practise analysing retail sales performance and creating an interactive business dashboard.
+
+The dataset includes the following fields:
+
+- Order ID
+- Order Date
+- Product
+- Category
+- Region
+- Quantity
+- Unit Price
+- Unit Cost
+- Customer
+- Sales Channel
+
+The analysis uses the dataset to calculate revenue, cost, profit and profit margin, and to explore sales performance by product, category, region, channel and month.
+
+The Excel dataset and Power BI dashboard file are included in this GitHub repository.
+
 ## Dashboard Preview
 ![Sales Performance Dashboard](Screenshot%202026-10-11%20143444.png)
 
